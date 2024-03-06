@@ -1,0 +1,23 @@
+# Website specifications
+title: "WSCAD 2024" # Website's name
+description: XXV Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2024)
+url: "https://ce-acpad.github.io" # Website's base hostname and protocol (e.g.: http://example.com)
+baseurl: "/sscad2024" # Website's subpath (e.g.: /blog)
+final_url: https://ce-acpad.github.io/sscad2024
+encoding: UTF-8
+
+# Website collections
+collections_dir: collections
+collections:
+    news:
+    keynote_speakers:
+        sort_by: order
+
+# Website SASS settings
+sass:
+    sass_dir: _sass
+    style: compressed
+
+# Jekyll plugins
+plugins:
+    - jekyll-seo-tag

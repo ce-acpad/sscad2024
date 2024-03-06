@@ -1,3 +1,3 @@
-# Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD) 2024
+# Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD) 2024
 
-Mais informações am breve
+Mais informações em breve
