@@ -1,0 +1,48 @@
+committees:
+  - name: "Comitês"
+    subcommittees:
+      - name: "Coordenação Geral"
+        people:
+          - name: "Tiago Ferreto"
+            institution: "PUCRS"
+          - name: "Dalvan Griebler"
+            institution: "PUCRS"
+          - name: "César A. F. De Rose"
+            institution: "PUCRS"
+      - name: "Coordenação do Comitê de Programa"
+        people:
+          - name: "Hermes Senger"
+            institution: "UFSCAR"
+          - name: "Henrique Cota de Freitas"
+            institution: "PUC Minas"
+      - name: "Coordenação do Workshop de Iniciação Científica (WSCAD-WIC)"
+        people:
+          - name: "Marco Antonio Zanata Alves"
+            institution: "UFPR"
+          - name: "Monica Magalhães Pereira"
+            institution: "UFRN"
+      - name: "Coordenação do Concurso de Teses e Dissertações (WSCAD-CTD)"
+        people:
+          - name: "Alba Cristina Magalhães Alves de Melo"
+            institution: "UnB"
+          - name: "Rodrigo da Rosa Righi"
+            institution: "Unisinos"
+      - name: "Coordenação do Workshop sobre Educação em Arquitetura de Computadores (WEAC)"
+        people:
+          - name: "Carlos Augusto Paiva da Silva Martins"
+            institution: "PUC Minas"
+          - name: "Ricardo Menotti"
+            institution: "UFSCAR"
+      - name: "Coordenação dos Minicursos"
+        people:
+          - name: "Edward David Moreno Ordonez"
+            institution: "UFS"
+          - name: "Kalinka Regina Lucas Jaquie Castelo Branco"
+            institution: "USP"
+      - name: "Coordenação da Maratona de Programação Paralela"
+        people:
+          - name: "Calebe de Paula Bianchini"
+            institution: "Mackenzie"
+          - name: "Roland Teodorowitsch"
+            institution: "PUCRS"
+      
