@@ -21,10 +21,10 @@ committees:
             institution: "PUC Minas"
       - name: "Coordenação do Concurso de Teses e Dissertações (SSCAD-CTD)"
         people:
-          - name: ""
-            institution: ""
-          - name: ""
-            institution: ""
+          - name: "Cristiana Bentes"
+            institution: "UERJ"
+          - name: "Ricardo Ferreira"
+            institution: "UFV"
       - name: "Coordenação do Workshop sobre Educação em Arquitetura de Computadores (WEAC)"
         people:
           - name: "Guilherme Galante"
