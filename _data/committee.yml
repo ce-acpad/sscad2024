@@ -33,14 +33,14 @@ committees:
             institution: "Unicamp"
       - name: "Coordenação dos Minicursos"
         people:
-          - name: ""
-            institution: ""
-          - name: ""
-            institution: ""
+          - name: "Arthur Lorenzon"
+            institution: "UFRGS"
+          - name: "Álvaro Fazenda"
+            institution: "ICT-Unifesp"
       - name: "Coordenação da Maratona de Programação Paralela"
         people:
           - name: "Calebe de Paula Bianchini"
             institution: "Mackenzie"
-          - name: ""
-            institution: ""
+          - name: "Hélio Crestana Guardia"
+            institution: "UFSCar"
       
