@@ -10,15 +10,15 @@ encoding: UTF-8
 # Website collections
 collections_dir: collections
 collections:
-    news:
-    keynote_speakers:
-        sort_by: order
+  news:
+  keynote_speakers:
+    sort_by: order
 
 # Website SASS settings
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 
 # Jekyll plugins
 plugins:
-    - jekyll-seo-tag
+  - jekyll-seo-tag
