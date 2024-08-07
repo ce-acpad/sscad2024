@@ -83,22 +83,30 @@ permalink: /program/
                     <br>
                     {% for block in day.blocks %}
                         {% for activity in block.activities %}
+                            <p class="activity_room"><b>Sala</b>: {{activity.room}}</p>
+                            <p class="activity_time"><b>Horário</b>: {{block.start}} - {{block.end}}</p>
                             {% if activity.type == "tutorial" %}
                                 <h3 id="{{activity.id}}">{{activity.title}}: {{activity.description}}</h3>
                                 <p class="activity_authors"><b>Autores</b>: {{activity.authors}}</p>
                             {% elsif activity.type == "session" %}
                                 <h3 id="{{activity.id}}">{{activity.title}}</h3>
+                            {% elsif activity.type == "keynote" %}
+                                <h3 id="{{activity.id}}">{{activity.title}}</h3>
+                                <img src="{{ site.final_url }}/assets/img/{{activity.image}}" class="activity_image">
+                                <p class="activity_authors"><b>Palestrante</b>: {{activity.authors}}</p>
                             {% endif %}
                             {% if activity.chair %}
                                 <p class="activity_chair"><b>Chair</b>: {{activity.chair}}</p>
                             {% endif %}
-                            <p class="activity_time"><b>Horário</b>: {{block.start}} - {{block.end}}</p>
                             {% if activity.type == "session" %}
                                 {% for paper in activity.papers %}
                                     <p class="paper_title"><b>{{paper.title}}</b></p>
                                     <p>{{paper.authors}}</p>
                                 {% endfor %}
                             {% elsif activity.type == "tutorial" %}
+                                <p><b>Resumo</b>: {{activity.abstract}}</p>
+                            {% elsif activity.type == "keynote" %}
+                                <p><b>Biografia Resumida</b>: {{activity.short_bio}}</p>
                                 <p><b>Resumo</b>: {{activity.abstract}}</p>
                             {% endif %}
                         {% if forloop.rindex != 1 %}

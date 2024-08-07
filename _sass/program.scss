@@ -20,6 +20,14 @@ div {
   }
 }
 
+.activity_image {
+  width: auto;
+  height: 150px;
+  float: left;
+  margin: 10px;
+  border-radius: 10%;
+}
+
 .activity_title,
 .paper_title,
 .block_time_text {
