@@ -36,4 +36,43 @@ footer {
     .btn-social:hover {
         color: #cfcfcf;
     }
+
+    .grid-container {
+        display: grid;
+    }
+
+    .sbc {
+        grid-column-start: 1;
+        grid-column-end: 2;
+    }
+
+    .org {
+        grid-column-start: 2;
+        grid-column-end: 4;
+    }
+
+    .fomento {
+        grid-column-start: 4;
+        grid-column-end: 5;
+    }
+
+    .ouro {
+        grid-column-start: 1;
+        grid-column-end: 5;
+    }
+
+    .prata {
+        grid-column-start: 1;
+        grid-column-end: 5;
+    }
+
+    .img_ouro {
+        width: auto;
+        height: 110px;
+    }
+
+    .img_prata {
+        width: auto;
+        height: 110px;
+    }
 }
