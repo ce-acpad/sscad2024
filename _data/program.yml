@@ -2,6 +2,19 @@
   id: "first-day" 
   title: "Quarta-Feira"
   date: "23/10/2024"
+  blocks:
+    - start: "13:30"
+      end: "14:30"
+      activities:
+        - id: "k2"
+          type: "keynote"
+          url: "#k2"
+          room: "A ser definida"
+          title: "O Supercomputador Santos Dumont no cenário nacional e internacional das pesquisas de HPC e IA"
+          authors: "Carla Osthoff (Laboratório Nacional de Computação Científica)"
+          image: "Carla.jpg"
+          short_bio: "Possui graduação em Engenharia Elétrica pela PUC/RJ, mestrado e doutorado em Engenharia de Sistemas e Computação COPPE/UFRJ. Atua na área de processamento de alto desempenho desde 1985, inicialmente em projetos de desenvolvimento de hardware de multiprocessadores paralelos distribuídos. Atualmente, é pesquisadora na área de Computação de Alto Desempenho do Laboratório Nacional de Computação Científica (LNCC), professora do Programa Multidisciplinar de Pós-Graduação do LNCC, coordena o Centro Nacional de Processamento de Alto Desempenho do LNCC(CENAPAD/LNCC), é membro do corpo Técnico-Científico do Comitê Consultivo do Supercomputador Santos Dumont, coordena o Setor de Processamento de Alto Desempenho do LNCC e diversos projetos de colaboração na área de Computação de Alto Desempenho."
+          abstract: "O supercomputador SDumont, hospedado no LNCC /MCTIC, na cidade de Petrópolis-RJ, financiado pelo MCTIC para atender a comunidade acadêmica brasileira, de forma gratuita, atende atualmente a cerca de 240 projetos de pesquisa de 20 áreas de conhecimento, coordenados por instituições de ensino e pesquisa distribuídas em 12 estados brasileiros além de colaborações com instituições de pesquisas internacionais. Nesta palestra serão apresentadas as características da nova arquitetura do supercomputador de cerca de 23 PetaFlops e do futuro Supercomputador para IA, como parte do Plano Nacional de Inteligencia Artificial (PBIA). Em seguida, serão apresentadas as pesquisas e as colaborações desenvolvidas pelo setor de Processamento de Alto Desempenho do LNCC."
 -
   id: "second-day"
   title: "Quinta-Feira"
