@@ -4,9 +4,15 @@ committees:
       - name: "Coordenação Geral"
         people:
           - name: "Hermes Senger"
-            institution: "UFSCAR"
+            institution: "UFSCar"
           - name: "Sarita Bruschi"
             institution: "USP"
+      - name: "Coordenação Local"
+        people:
+          - name: "Helio Crestana Guardia"
+            institution: "UFSCar"
+          - name: "Ricardo Menotti"
+            institution: "UFSCar"
       - name: "Coordenação do Comitê de Programa"
         people:
           - name: "Adenauer Yamin"
