@@ -15,6 +15,18 @@
           image: "Carla.jpg"
           short_bio: "Possui graduação em Engenharia Elétrica pela PUC/RJ, mestrado e doutorado em Engenharia de Sistemas e Computação COPPE/UFRJ. Atua na área de processamento de alto desempenho desde 1985, inicialmente em projetos de desenvolvimento de hardware de multiprocessadores paralelos distribuídos. Atualmente, é pesquisadora na área de Computação de Alto Desempenho do Laboratório Nacional de Computação Científica (LNCC), professora do Programa Multidisciplinar de Pós-Graduação do LNCC, coordena o Centro Nacional de Processamento de Alto Desempenho do LNCC(CENAPAD/LNCC), é membro do corpo Técnico-Científico do Comitê Consultivo do Supercomputador Santos Dumont, coordena o Setor de Processamento de Alto Desempenho do LNCC e diversos projetos de colaboração na área de Computação de Alto Desempenho."
           abstract: "O supercomputador SDumont, hospedado no LNCC /MCTIC, na cidade de Petrópolis-RJ, financiado pelo MCTIC para atender a comunidade acadêmica brasileira, de forma gratuita, atende atualmente a cerca de 240 projetos de pesquisa de 20 áreas de conhecimento, coordenados por instituições de ensino e pesquisa distribuídas em 12 estados brasileiros além de colaborações com instituições de pesquisas internacionais. Nesta palestra serão apresentadas as características da nova arquitetura do supercomputador de cerca de 23 PetaFlops e do futuro Supercomputador para IA, como parte do Plano Nacional de Inteligencia Artificial (PBIA). Em seguida, serão apresentadas as pesquisas e as colaborações desenvolvidas pelo setor de Processamento de Alto Desempenho do LNCC."
+    - start: "17:15"
+      end: "18:15"
+      activities:
+        - id: "k3"
+          type: "keynote"
+          url: "#k3"
+          room: "A ser definida"
+          title: "Modelagem e Análise do Comportamento de Usuários e Sistemas de Supercomputação: o caso do LNCC"
+          authors: "Antônio Tadeu A. Gomes (Laboratório Nacional de Computação Científica)"
+          image: "Tadeu.jpg"
+          short_bio: "Antônio Tadeu A. Gomes possui graduação em Informática - Magna Cum-Laude - pela UFRJ (1995), mestrado e doutorado em Informática pela PUC-Rio (1999 e 2005). Atualmente é pesquisador do LNCC/MCTI. Também é secretário executivo do SINAPAD (Sistema Nacional de Processamento de Alto Desempenho - http://www.lncc.br/sinapad) e coordenador do Comitê Gestor do supercomputador Santos Dumont (http://sdumont.lncc.br). É vice-coordenador e leciona na Pós-graduação em Modelagem Computacional do LNCC. Seus principais interesses são na ampla área de modelagem de sistemas, englobando sistemas em rede, sistemas distribuídos, sistemas de simulação numérica, sistemas de computação de alto desempenho e sistemas de aprendizado de máquina. É membro da Sociedade Brasileira de Computação (SBC) e da Association for Computing Machinery (ACM). Foi Bolsista de Produtividade em Pesquisa do CNPq (PQ-2) entre 2010 e 2018."
+          abstract: "Nesta palestra discorro sobre a diversidade de projetos que executam no supercomputador SDumont hospedado no Laboratório Nacional de Computação Científica (LNCC), em Petrópolis-RJ. Tal diversidade -- que abarca diferentes perfis de usuários e de aplicações -- combinada à alta rotatividade de projetos traz desafios relacionados à continua revisão das políticas de escalonamento no supercomputador. Nesse sentido, apresento algumas estratégias sendo estudadas e avaliadas nas áreas de modelagem, análise e simulação discreta do comportamento de usuários e de sistemas de HPC, utilizando os dados de accounting do SDumont como estudo de caso."
 -
   id: "second-day"
   title: "Quinta-Feira"
