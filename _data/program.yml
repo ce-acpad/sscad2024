@@ -31,6 +31,7 @@
   id: "second-day"
   title: "Quinta-Feira"
   date: "24/10/2024"
+  blocks:
     - start: "13:30"
       end: "14:30"
       activities:
