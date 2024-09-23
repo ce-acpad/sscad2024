@@ -1,31 +1,31 @@
 div {
   .program_activity {
     position: relative;
-    border-radius: 0.3rem;
-    padding: 1rem;
-    margin: 0 1rem 0 1rem;
+    border-radius: 0.5rem;
+    padding: .5rem;
+    margin: 0 .5rem 0 .5rem;
     display: flex;
     justify-content: center;
     align-items: center;
     border: 1px solid #000000;
-    background-color: #e9e9e9;
+    background-color: #ffbbbb;
     &.auditorio1 {
       background-color: #bbbbff;
     }
     &.auditorio2 {
-      background-color: #bbffbb;
+      background-color: #bbffff;
     }
     &.auditorio3 {
-      background-color: #ffffbb;
+      background-color: #bbffbb;
     }
     &.le6 {
-      background-color: #ffddbb;
+      background-color: #ffffbb;
     }
     &.maker {
-      background-color: #ffbbbb;
+      background-color: #ffddbb;
     }
     &.blank {
-      background-color: white;
+      background-color: #e9e9e9;
     }
     &.gap {
       background-color: transparent;
@@ -38,7 +38,7 @@ div {
   }
 
   .block_time {
-    padding: 1rem;
+    padding: .5rem;
   }
 }
 
@@ -64,11 +64,11 @@ div {
 }
 
 .nav-pills > .nav-item > .nav-link.active {
-  background-color: #000000;
+  background-color: #ff0000;
 }
 
 .nav-pills > .nav-item > .nav-link:hover:not(.active) {
-  background-color: #e9e9e9;
+  background-color: #ffbbbb;
   color: #000000;
 }
 
