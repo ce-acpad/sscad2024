@@ -525,6 +525,7 @@
           type: "session"
           url: "#weac2"
           title: "WEAC (S2)"
+          style: "auditorio3"
           room: "Auditório 3 (BCo)"
           chair: "A ser definido"
           papers:
