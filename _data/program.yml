@@ -270,6 +270,7 @@
   blocks:
     - start: "7:00"
       end: "8:00"
+      hide_details: "yes"
       activities:
         - id: "credenciamento"
           type: "blank"
@@ -498,6 +499,7 @@
   blocks:
     - start: "7:00"
       end: "8:00"
+      hide_details: "yes"
       activities:
         - type: "blank"
           style: "blank"
