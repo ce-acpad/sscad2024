@@ -204,6 +204,8 @@
           url: "#maratona"
           hide_details: "yes"
         - id: "sscad3"
+          type: "session"
+          url: "#sscad3"
           title: "SSCAD (S3)"
           description: "Avaliação e Medição de Desempenho"
           room: "Bento Prado"
