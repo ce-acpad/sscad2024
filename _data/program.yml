@@ -154,7 +154,7 @@
           short_bio: "Possui graduação em Engenharia Elétrica pela PUC/RJ, mestrado e doutorado em Engenharia de Sistemas e Computação COPPE/UFRJ. Atua na área de processamento de alto desempenho desde 1985, inicialmente em projetos de desenvolvimento de hardware de multiprocessadores paralelos distribuídos. Atualmente, é pesquisadora na área de Computação de Alto Desempenho do Laboratório Nacional de Computação Científica (LNCC), professora do Programa Multidisciplinar de Pós-Graduação do LNCC, coordena o Centro Nacional de Processamento de Alto Desempenho do LNCC(CENAPAD/LNCC), é membro do corpo Técnico-Científico do Comitê Consultivo do Supercomputador Santos Dumont, coordena o Setor de Processamento de Alto Desempenho do LNCC e diversos projetos de colaboração na área de Computação de Alto Desempenho."
           abstract: "O supercomputador SDumont, hospedado no LNCC /MCTIC, na cidade de Petrópolis-RJ, financiado pelo MCTIC para atender a comunidade acadêmica brasileira, de forma gratuita, atende atualmente a cerca de 240 projetos de pesquisa de 20 áreas de conhecimento, coordenados por instituições de ensino e pesquisa distribuídas em 12 estados brasileiros além de colaborações com instituições de pesquisas internacionais. Nesta palestra serão apresentadas as características da nova arquitetura do supercomputador de cerca de 23 PetaFlops e do futuro Supercomputador para IA, como parte do Plano Nacional de Inteligencia Artificial (PBIA). Em seguida, serão apresentadas as pesquisas e as colaborações desenvolvidas pelo setor de Processamento de Alto Desempenho do LNCC."
     - start: "14:30"
-      end: "15:00"
+      end: "16:15"
       activities:
         - id: "ctdd"
           type: "session"
@@ -526,7 +526,7 @@
             - title: "Evolução histórica do desempenho energético de tarefas cotidianas em uma distribuição Linux"
               authors: "Artur Cupelli (USP), Fabio Nakano (USP), Flávio Coutinho (USP), Daniel Cordeiro (USP)"
             - title: "Tomatinho: Uso de IoT para Aumentar a Produtividade Utilizando a Técnica Pomodoro"
-              authors: "Fernanda Gomes (PUC Minas), Pedro Alves (PUC Minas), Fabrizio Mello (PUC Minas), Camila Hollerbach Pimenta Macedo (PUC Minas), Gabriel Pinto Azevedo (PUC Minas), Pedro Ramos (PUC Minas), Ricardo Carlini Sperandio (PUC Minas), Matheus Souza (PUC Minas)"
+              authors: "Fernanda Gomes (PUC Minas), Pedro Alves (PUC Minas), Fabrizio Mello (PUC Minas), Camila Hollerbach Pimenta Macedo (PUC Minas), Gabriel Pinto Azevedo (PUC Minas), Pedro Ramos (PUC Minas), Ricardo Carlini Sperandio (PUC Minas), Matheus Souza (PUC Minas), Felipe Domingos da Cunha (PUC Minas)"
             - title: "	Desempenho de Workflows Científicos de Transcriptômica em Arquiteturas de Memória Distribuída e Compartilhada do Santos Dumont"
               authors: "Reiglan Di Lourenço (FAETERJ), Albert Emidio (FAETERJ), Lucas Cruz (LNCC), Micaella Paula (LNCC), Kary Ocaña (LNCC), Carla Osthoff (LNCC)"
             - title: "Tucano: A Service Scheduler and Load Balancer in a Distributed System"
@@ -594,7 +594,7 @@
           style: "blank"
           title: "Almoço"
     - start: "14:30"
-      end: "16:45"	
+      end: "16:15"	
       activities:
         - id: "mc4"
           type: "tutorial"
