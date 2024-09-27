@@ -303,7 +303,7 @@
           type: "session"
           url: "#weac1"
           style: "auditorio3"
-          title: "WEAC (S1) Artigos"
+          title: "WEAC (S1)"
           room: "Auditório 3 (BCo)"
           # chair: "A ser definido"
           papers:
