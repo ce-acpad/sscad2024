@@ -307,6 +307,17 @@
           room: "Auditório 3 (BCo)"
           # chair: "A ser definido"
           papers:
+            - title: "WIMS : A Modern Web-Based MIPS Simulator for Improved Learning in Computer Architecture and Operating Systems"
+              authors: "Reinaldo Assis (Universidade Federal de Alagoas)"
+
+            - title: "Processador MIPS Implementado em Simulador Visual para uso na Educação"
+              authors: "Christofer Daniel Rodrigues Santos (Universidade Tecnológica Federal do Paraná), Rogério Gonçalves (Universidade Tecnológica Federal do Paraná), João Fabrício Filho (Universidade Tecnológica Federal do Paraná)"
+
+            - title: "Celestial Suite: uma Ferramenta para a Tradução e Execução de Código de Três Endereços"
+              authors: "Guilherme Galante (Universidade Estadual do Oeste do Paraná), Daniel Boll (Universidade Estadual do Oeste do Paraná)"
+
+            - title: Livros da Comunidade CE-ACPAD
+            
             #- title: "WIMS : A Modern Web-Based MIPS Simulator for Improved Learning in Computer Architecture and Operating Systems"
             #  authors: "Reinaldo Assis (Universidade Federal de Alagoas)"
             #- title: "Processador MIPS Implementado em Simulador Visual para uso na Educação"
@@ -387,12 +398,21 @@
         - id: "weac2"
           type: "session"
           url: "#weac2"
-          title: "WEAC (S2) Livros"
+          title: "WEAC (S2)"
           style: "auditorio3"
           room: "Auditório 3 (BCo)"
           # chair: "A ser definido"
           papers:
-            #- title: "Livros didáticos desenvolvidos pela comunidade de PAD"
+            - title: "Um Relato de Experiência do Uso de Metodologias Ativas na Construção do Pensamento Computacional Paralelo"
+              authors: "Josivaldo de Araujo (Universidade Federal do Pará),Helder Dias (Universidade Federal do Pará)"
+
+            - title: "Integrating Continuous Assessment into Undergraduate Computer Architecture using Automated Grading"
+              authors: "Lucas Wanner (Universidade Estadual de Campinas)"
+
+            - title: "Desenvolvendo Ferramentas para Ensino de RiscV com Python, Verilog, Matplotlib, SVG e ChatGPT"
+              authors: "Guilherme Figueiredo (Universidade Federal de Viçosa),Erick Souza (Universidade Federal de Viçosa),Julio Rodrigues (Universidade Federal de Viçosa), José Augusto Nacif (Universidade Federal de Viçosa), Ricardo Ferreira (Universidade Federal de Viçosa)"
+            
+            - title: Livros da Comunidade CE-ACPAD  
         - id: "gap"
           type: "gap"
           style: "gap"
@@ -629,14 +649,13 @@
           room: "Auditório 3 (BCo)"
           # chair: "A ser definido"
           papers:
-            #- title: "Resenha do Livro 'Arquitetura e Organização de Computadores: uma Introdução'"
-            #  authors: "Gabriel P. Silva (Universidade Federal do Rio de Janeiro), José Antonio Borges (Universidade Federal do Rio de Janeiro)"
-            #- title: "Integrating Continuous Assessment into Undergraduate Computer Architecture using Automated Grading"
-            #  authors: "Lucas Wanner (Universidade Estadual de Campinas)"
-            #- title: "Aprimorando a Aprendizagem de Arquitetura de Computadores com um Currículo em Espiral"
-            #  authors: "Leonardo Pinho (Universidade Federal do Pampa), Julio Saraçol Domingues Júnior (Universidade Federal do Pampa)"
-            #- title: "Celestial Suite: uma Ferramenta para a Tradução e Execução de Código de Três Endereços"
-            #  authors: "Guilherme Galante (Universidade Estadual do Oeste do Paraná), Daniel Boll (Universidade Estadual do Oeste do Paraná)"    
+            - title: "Aprimorando a Aprendizagem de Arquitetura de Computadores com um Currículo em Espiral"
+              authors: "Leonardo Pinho (Universidade Federal do Pampa), Julio Saraçol Domingues Júnior (Universidade Federal do Pampa)"
+
+            - title: "Resenha do Livro “Arquitetura e Organização de Computadores: uma Introdução"
+              authors: "Gabriel P. Silva (Universidade Federal do Rio de Janeiro), José Antonio Borges (Universidade Federal do Rio de Janeiro)"
+
+            - title: Livros da Comunidade CE-ACPAD
         - id: "gap"
           type: "gap"
           style: "gap"
