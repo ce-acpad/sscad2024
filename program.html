@@ -135,6 +135,17 @@ permalink: /program/
                                                     <p class="paper_title"><b>{{paper.title}}</b></p>
                                                     <p>{{paper.authors}}</p>
                                                 {% endfor %} <!-- paper in activity.papers -->
+                                            {% elsif activity.type == "panel" %}                <!-- panel, details -->
+                                                <p><b>Resumo</b>: {{activity.abstract}}</p>
+                                                {% for panelist in activity.panelists %}
+                                                    {% if panelist.image %}
+                                                        <img src="{{ site.final_url }}/assets/img/{{panelist.image}}" class="panelist_image">
+                                                    {% endif %}
+                                                    <p><b>Participante</b>: {{panelist.name}}</p>
+                                                    {% if panelist.short_bio %}
+                                                        <p><b>Biografia Resumida</b>: {{panelist.short_bio}}</p>
+                                                    {% endif %}
+                                                {% endfor %} <!-- panelist in activity.panelists -->
                                             {% else %}                                   <!-- tutorial, keynote,  -->
                                                 {% if activity.short_bio %}
                                                     <p><b>Biografia Resumida</b>: {{activity.short_bio}}</p>
