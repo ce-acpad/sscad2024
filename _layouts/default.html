@@ -60,8 +60,18 @@
                                 >Submission Instructions</a
                             >
                         </li> -->
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{ site.final_url }}/program/">Programa</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Programa
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="{{ site.final_url }}/program/">Programação Geral</a></li>
+                                <li><a class="dropdown-item" href="{{ site.final_url }}/program/sessions/">Sessões Técnicas</a></li>
+                                <li><a class="dropdown-item" href="{{ site.final_url }}/program/keynotes/">Palestras</a></li>
+                                <li><a class="dropdown-item" href="{{ site.final_url }}/program/panel/">Painel</a></li>
+                                <li><a class="dropdown-item" href="{{ site.final_url }}/program/tutorials/">Minicursos</a></li>
+                                <li><a class="dropdown-item" href="https://lspd.mackenzie.br/marathon/">Maratona</a></li>
+                            </ul>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ site.final_url }}/committee/">Comitês</a>
@@ -75,9 +85,9 @@
                             <a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://sites.google.com/ime.usp.br/sbac2024/">SBAC-PAD 2024</a>
                         </li> -->
 
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link" target="_blank" rel="noopener noreferrer" href="http://lspd.mackenzie.br/marathon/">MPP 2024</a>
-                        </li>
+                        </li> -->
                         
                         <!-- <li class="nav-item">
                             <a class="nav-link" href="{{ site.final_url }}/travel_info/">Travel Info</a>
