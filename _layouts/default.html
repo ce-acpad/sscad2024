@@ -5,15 +5,15 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{{ page.title }} - {{ site.title }}</title>
-        <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}"> {% seo %}
-        <link rel="icon" type="image/x-icon" href="{{ site.final_url }}/assets/img/favicon.ico">
+        <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}"> {% seo %}
+        <link rel="icon" type="image/x-icon" href="{{ '/assets/img/favicon.ico' | relative_url }}">
     </head>
     <body>
         <nav class="navbar fixed-top navbar-expand-lg navbar-light">
             <div class="container">
-                <a class="navbar-brand" href="{{ site.final_url }}">
+                <a class="navbar-brand" href="{{ '/' | relative_url }}">
                     <img
-                        src="{{ site.final_url }}/assets/img/sscad_logo.png"
+                        src="{{ '/assets/img/sscad_logo.png' | relative_url }}"
                         class="img-fluid"
                         alt="SSCAD 2024 Logo"
                         id="sscad_logo"
@@ -32,66 +32,41 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <ul class="navbar-nav text-center">
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://centraldesistemas.sbc.org.br/ecos/sscad2024">Inscrições</a>
-                        </li> -->
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" href="{{ site.final_url }}/#important_dates_section">Important Dates</a>
-                        </li> -->
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ site.final_url }}/registration/">Inscrições</a>
+                            <a class="nav-link" href="{{ '/registration/' | relative_url }}">Inscrições</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Chamadas
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="{{ site.final_url }}/cfp/">Trilha Principal</a></li>
-                                <li><a class="dropdown-item" href="{{ site.final_url }}/cfp_wic/">SSCAD-WIC</a></li>
-                                <li><a class="dropdown-item" href="{{ site.final_url }}/cfp_ctd/">SSCAD-CTD</a></li>
-                                <li><a class="dropdown-item" href="{{ site.final_url }}/cfp_weac/">WEAC</a></li>
-                                <li><a class="dropdown-item" href="{{ site.final_url }}/cfp_minicursos/">Minicursos</a></li>
-                                <!-- <li><a class="dropdown-item" href="{{ site.final_url }}/cfwp/">Call For Workshop Proposals</a></li> -->
-                                <!-- <li><a class="dropdown-item" href="/eradrs2023/artigos_aceitos">Artigos Aceitos</a></li> -->
+                                <li><a class="dropdown-item" href="{{ '/cfp/' | relative_url }}">Trilha Principal</a></li>
+                                <li><a class="dropdown-item" href="{{ '/cfp_wic/' | relative_url }}">SSCAD-WIC</a></li>
+                                <li><a class="dropdown-item" href="{{ '/cfp_ctd/' | relative_url }}">SSCAD-CTD</a></li>
+                                <li><a class="dropdown-item" href="{{ '/cfp_weac/' | relative_url }}">WEAC</a></li>
+                                <li><a class="dropdown-item" href="{{ '/cfp_minicursos/' | relative_url }}">Minicursos</a></li>
                             </ul>
                         </li>
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" href="{{ site.final_url }}/#submission_instructions_section"
-                                >Submission Instructions</a
-                            >
-                        </li> -->
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Programa
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="{{ site.final_url }}/program/">Programação Geral</a></li>
-                                <li><a class="dropdown-item" href="{{ site.final_url }}/program/sessions/">Sessões Técnicas</a></li>
-                                <li><a class="dropdown-item" href="{{ site.final_url }}/program/keynotes/">Palestras</a></li>
-                                <li><a class="dropdown-item" href="{{ site.final_url }}/program/panel/">Painel</a></li>
-                                <li><a class="dropdown-item" href="{{ site.final_url }}/program/tutorials/">Minicursos</a></li>
+                                <li><a class="dropdown-item" href="{{ '/program/' | relative_url }}">Programação Geral</a></li>
+                                <li><a class="dropdown-item" href="{{ '/program/sessions/' | relative_url }}">Sessões Técnicas</a></li>
+                                <li><a class="dropdown-item" href="{{ '/program/keynotes/' | relative_url }}">Palestras</a></li>
+                                <li><a class="dropdown-item" href="{{ '/program/panel/' | relative_url }}">Painel</a></li>
+                                <li><a class="dropdown-item" href="{{ '/program/tutorials/' | relative_url }}">Minicursos</a></li>
                                 <li><a class="dropdown-item" href="https://lspd.mackenzie.br/marathon/">Maratona</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ site.final_url }}/committee/">Comitês</a>
+                            <a class="nav-link" href="{{ '/committee/' | relative_url }}">Comitês</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ site.final_url }}/travel_info/">Local</a>
+                            <a class="nav-link" href="{{ '/travel_info/' | relative_url }}">Local</a>
                         </li>
-
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://sites.google.com/ime.usp.br/sbac2024/">SBAC-PAD 2024</a>
-                        </li> -->
-
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" target="_blank" rel="noopener noreferrer" href="http://lspd.mackenzie.br/marathon/">MPP 2024</a>
-                        </li> -->
-                        
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" href="{{ site.final_url }}/travel_info/">Travel Info</a>
-                        </li> -->
                         <li class="nav-item">
                             <a class="nav-link" target="_blank" href="http://wscad.sbc.org.br/edicoes/index.html">Edições passadas</a>
                         </li>
@@ -106,7 +81,7 @@
                     <a href="https://www.sbc.org.br/" target="_blank">
                         <span>Realização:</span>
                         <br>
-                        <img src="{{ site.final_url }}/assets/img/sbc_white.png">
+                        <img src="{{ '/assets/img/sbc_white.png' | relative_url }}">
                     </a>
                 </div>
                 <div class="row">
@@ -126,27 +101,27 @@
 				<div class="sbc">
 					<b><p>Realização</p></b>
 					<figure class="sbc">
-						<a href="https://www.sbc.org.br" target="_blank"><img src="{{ site.final_url }}/assets/img/sbc_logo.png" class="img_prata"></a>
-						<img src="{{ site.final_url }}/assets/img/spacer.png" style="width: 5%;height: 1%;">
-						<a href="https://www2.sbc.org.br/ce-acpad/" target="_blank"><img src="{{ site.final_url }}/assets/img/ceacpad.png" class="img_prata" style="height: auto; width: 220px;"></a>
+						<a href="https://www.sbc.org.br" target="_blank"><img src="{{ '/assets/img/sbc_logo.png' | relative_url }}" class="img_prata"></a>
+						<img src="{{ '/assets/img/spacer.png' | relative_url }}" style="width: 5%;height: 1%;">
+						<a href="https://www2.sbc.org.br/ce-acpad/" target="_blank"><img src="{{ '/assets/img/ceacpad.png' | relative_url }}" class="img_prata" style="height: auto; width: 220px;"></a>
 					</figure>
 				</div>
 				<div class="org">
 					<b><p>Organização</p></b>
 					<figure class="org">
-						<a href="https://www.dc.ufscar.br" target="_blank"><img src="{{ site.final_url }}/assets/img/logo_dc.png" class="img_prata"></a>
-						<img src="{{ site.final_url }}/assets/img/spacer.png" style="width: 5%;height: 1%;">
-						<a href="https://www.ufscar.br" target="_blank"><img src="{{ site.final_url }}/assets/img/LogoUfscar.png" class="img_prata"></a>
-						<img src="{{ site.final_url }}/assets/img/spacer.png" style="width: 5%;height: 1%;">
-						<a href="https://www.icmc.ups.br" target="_blank"><img src="{{ site.final_url }}/assets/img/icmc.png" class="img_prata"></a>
+						<a href="https://www.dc.ufscar.br" target="_blank"><img src="{{ '/assets/img/logo_dc.png' | relative_url }}" class="img_prata"></a>
+						<img src="{{ '/assets/img/spacer.png' | relative_url }}" style="width: 5%;height: 1%;">
+						<a href="https://www.ufscar.br" target="_blank"><img src="{{ '/assets/img/LogoUfscar.png' | relative_url }}" class="img_prata"></a>
+						<img src="{{ '/assets/img/spacer.png' | relative_url }}" style="width: 5%;height: 1%;">
+						<a href="https://www.icmc.ups.br" target="_blank"><img src="{{ '/assets/img/icmc.png' | relative_url }}" class="img_prata"></a>
 					</figure>
 				</div>
 				<div class="fomento">
 					<b><p>Fomento</p></b>
 					<figure class="org">
-						<a href="https://fapesp.br" target="_blank"><img src="{{ site.final_url }}/assets/img/fapesp.png" class="img_ouro" style="height: 70px;"></a>
- 						<img src="{{ site.final_url }}/assets/img/spacer.png" style="width: 5%;height: 1%;">
-						<a href="https://www.capes.gov.br" target="_blank"><img src="{{ site.final_url }}/assets/img/capes.png" class="img_prata"></a>
+						<a href="https://fapesp.br" target="_blank"><img src="{{ '/assets/img/fapesp.png' | relative_url }}" class="img_ouro" style="height: 70px;"></a>
+ 						<img src="{{ '/assets/img/spacer.png' | relative_url }}" style="width: 5%;height: 1%;">
+						<a href="https://www.capes.gov.br" target="_blank"><img src="{{ '/assets/img/capes.png' | relative_url }}" class="img_prata"></a>
 					</figure>
 				</div>
 				<div class="prata">
@@ -156,13 +131,13 @@
 				<div class="ouro">
 					<p>Ouro</p>
 					<figure class="org">
-						<a href="https://www.nvidia.com" target="_blank"><img src="{{ site.final_url }}/assets/img/nvidia-dell.png" class="img_ouro"></a>
+						<a href="https://www.nvidia.com" target="_blank"><img src="{{ '/assets/img/nvidia-dell.png' | relative_url }}" class="img_ouro"></a>
 					</figure>
 				</div>
 				<div class="prata">
 					<p>Prata</p>
 					<figure class="org">
-						<a href="https://www.lexisnexis.com/" target="_blank"><img src="{{ site.final_url }}/assets/img/LexisNexis.png" class="img_prata"></a>
+						<a href="https://www.lexisnexis.com/" target="_blank"><img src="{{ '/assets/img/LexisNexis.png' | relative_url }}" class="img_prata"></a>
 					</figure>
 				</div>
 			</div>
