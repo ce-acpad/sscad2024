@@ -319,7 +319,7 @@
           # chair: "A ser definido"
           papers:
             - title: "WIMS : A Modern Web-Based MIPS Simulator for Improved Learning in Computer Architecture and Operating Systems"
-              authors: "Reinaldo Assis (Universidade Federal de Alagoas)"
+              authors: "Reinaldo Assis (Universidade Federal de Alagoas), Bruno Costa e Silva Nogueira (Universidade Federal de Alagoas)"
 
             - title: "Processador MIPS Implementado em Simulador Visual para uso na Educação"
               authors: "Christofer Daniel Rodrigues Santos (Universidade Tecnológica Federal do Paraná), Rogério Gonçalves (Universidade Tecnológica Federal do Paraná), João Fabrício Filho (Universidade Tecnológica Federal do Paraná)"
