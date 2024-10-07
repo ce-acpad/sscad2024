@@ -614,6 +614,8 @@
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
           # chair: "A ser definido"
           papers:
+            - title: "Towards multicluster computations with Julia"
+              authors: "Francisco H. de Carvalho Junior (UFC), Tiago Carneiro (IMEC)"
             - title: "A Modular Architecture and a Cost-Model to Estimate the Overhead of Implementing Confidentiality in Cloud Computing Environments"
               authors: "Mauro Storch (PUCRS), Vinícius Meyer (UNIVATES), Avelino Zorzo (PUCRS), Cesar De Rose (PUCRS)"
             - title: "Performance Evaluation of Dense Linear Algebra Kernels using Chameleon and StarPU on AWS"
@@ -715,8 +717,6 @@
               authors: "Alonso Fritz (UNIOESTE), Guilherme Galante (UNIOESTE), Marcio Oyamada (UNIOESTE)"
             - title: "Explorando Modelos GPT na Geração de Código Paralelo para Aplicações de Computação Stencil"
               authors: "João Vitor Dias (UFRGS), Antonio Carlos Schneider Beck (UFRGS), Arthur Lorenzon (UFRGS)"
-            - title: "Towards multicluster computations with Julia"
-              authors: "Francisco H. de Carvalho Junior (UFC), Tiago Carneiro (IMEC)"
             - title: "Towards Just-In-Time Software Approximations"
               authors: "Lucas Reis (UNICAMP), Lucas Wanner (UNICAMP), Sandro Rigo (UNICAMP)"
             - title: "Multithread Approximation: A new OpenMP constructo"
