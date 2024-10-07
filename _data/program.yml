@@ -58,7 +58,7 @@
           url: "#sscad1"
           title: "SSCAD (S1)"
           description: "Aprendizado de Máquina"
-          room: "Bento Prado - Apresentações: 10 m e Perguntas: 5 m"
+          room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m"
           # # chair: "A ser definido"
           papers:
             - title: "Avaliação das Técnicas Gulosa e Probabilística no Desempenho do Algoritmo de Otimização de Colônia de Formigas"
@@ -127,7 +127,7 @@
           url: "#sscad2"
           title: "SSCAD (S2)"
           description: "Arquitetura e Simulação"
-          room: "Bento Prado"
+          room: "Bento Prado - - Apresentações: 15 m e Perguntas: 5 m"
           # chair: "A ser definido"
           papers:
             - title: "HybriD-GM: Um Modelo Paralelo para Computação Quântica direcionado às Arquiteturas Híbridas"
@@ -216,7 +216,7 @@
           url: "#sscad3"
           title: "SSCAD (S3)"
           description: "Avaliação e Medição de Desempenho"
-          room: "Bento Prado"
+          room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m"
           # chair: "A ser definido"
           papers:
             - title: "Análise de Escalabilidade em um Código de Inversão de Forma de Onda Completa"
@@ -363,7 +363,7 @@
           url: "#sscad4"
           title: "SSCAD (S4)"
           description: "Algoritmos Paralelos e Distribuídos"
-          room: "Bento Prado"
+          room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m"
           # chair: "A ser definido"
           papers:
             - title: "Efficient Agent-Based Simulations Using the Sender Asynchronous Progamming Model"
@@ -440,7 +440,7 @@
           url: "#sscad5"
           title: "SSCAD (S5)"
           description: "Computação Sustentável"
-          room: "Bento Prado"
+          room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m"
           # chair: "A ser definido"
           papers:
             - title: "Performance and Energy Prediction of OpenMP and CUDA Applications using Machine Learning and Pre-execution Features"
@@ -611,7 +611,7 @@
           url: "#sscad6"
           title: "SSCAD (S6)"
           description: "Computação em Nuvem"
-          room: "Bento Prado"
+          room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m"
           # chair: "A ser definido"
           papers:
             - title: "A Modular Architecture and a Cost-Model to Estimate the Overhead of Implementing Confidentiality in Cloud Computing Environments"
@@ -708,7 +708,7 @@
           url: "#sscad7"
           title: "SSCAD (S7)"
           description: "Linguagens, Compiladores e Ferramentas"
-          room: "Bento Prado"
+          room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m"
           # chair: "A ser definido"
           papers:
             - title: "Um estudo sobre bugs de concorrência em aplicações Go open-source"
