@@ -58,7 +58,7 @@
           url: "#sscad1"
           title: "SSCAD (S1)"
           description: "Aprendizado de Máquina"
-          room: "Bento Prado"
+          room: "Bento Prado - Apresentações: 10 m e Perguntas: 5 m"
           # # chair: "A ser definido"
           papers:
             - title: "Avaliação das Técnicas Gulosa e Probabilística no Desempenho do Algoritmo de Otimização de Colônia de Formigas"
@@ -72,7 +72,7 @@
             - title: "Implementações Eficientes de Random Forest em FPGA de Baixo Custo para Internet das Coisas e Computação de Borda"
               authors: "Alysson Silva (UFV), Olavo Silva (UFV), Icaro Moreira (UFV), José A. Nacif (UFV), Ricardo Ferreira (UFV)"
     - start: "9:45"
-      end: "10:15 - Apresentações: 10 m e Perguntas: 5 m"
+      end: "10:15"
       hide_details: "yes"
       activities:
         - id: "coffee"
