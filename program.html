@@ -115,7 +115,15 @@ permalink: /program/
                                                     <p class="activity_authors"><b>Palestrante</b>: {{activity.authors}}</p>
                                                 {% endif %}
                                             {% else %}
-                                                <h3 id="{{activity.id}}">{{activity.title}}{% if activity.description %}: {{activity.description}}{% endif %} </h3>
+                                                <h3 id="{{activity.id}}">
+                                                    {{activity.title}}
+                                                    {% if activity.subtitle %}
+                                                        {{activity.subtitle}}
+                                                    {% endif %} 
+                                                    {% if activity.description %}: 
+                                                        {{activity.description}}
+                                                    {% endif %} 
+                                                </h3>
                                             {% endif %}
                                             {% if activity.chair %}
                                                 <p class="activity_chair"><b>Chair:</b> {{activity.chair}}</p>
