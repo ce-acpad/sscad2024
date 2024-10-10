@@ -594,7 +594,7 @@
             - title: "Tucano: A Service Scheduler and Load Balancer in a Distributed System"
               authors: "Luiz Felipe Gonçalves (PUC Minas), Eduardo Paschoalini (PUC Minas), Gustavo Aguiar (PUC Minas), Yuri Rousseff (PUC Minas), Pedro Ramos (PUC Minas), Ricardo Carlini Sperandio (PUC Minas), Matheus Souza (PUC Minas), Felipe Domingos da Cunha (PUC Minas)"
             - title: "	Implantação e Avaliação de um Sistema de Monitoramento de Recursos Computacionais de Cluster: um enfoque em desenvolvimento sustentável"
-              authors: "Vitor Emerique (UFPA), Fabio Lobato (UFPA), Marcelino Silva (UFPA)"
+              authors: "Vitor Emerique (UFOPA), Fabio Lobato (UFOPA), Marcelino Silva (UFOPA)"
         - id: "gap"
           type: "gap"
           style: "gap"
