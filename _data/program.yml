@@ -132,8 +132,6 @@
           papers:
             - title: "HybriD-GM: Um Modelo Paralelo para Computação Quântica direcionado às Arquiteturas Híbridas"
               authors: "Anderson Avila (UFPel), Rafael Bastos (UFPel), Bruno Moura (UNIPAMPA), Helida Santos (FURG), Giancarlo Lucca (UCPEL), Anderson Cruz (UFRN), Samuel Xavier-de-Souza (UFRN), Adenauer Yamin (UFPel), Renata Reiser (UFPel)"
-            - title: "A job shaping strategy to accomodate workload traces under varying resource management policie"
-              authors: "João Pedro M.  N. dos Santos (LNCC), Antonio Tadeu Gomes (LNCC)"
             - title: "A Thorough Analysis of Page Fault Handling in Persistent Memory Systems"
               authors: "André Libório (UNESP), Alexandro Baldassin (UNESP), Daniel Castro (INESC-ID), Paolo Romano (INESC-ID), João Barreto (INESC-ID)"
             - title: "Avaliação de Desempenho e Escalabilidade do Algoritmo de Otimização de Colônia de Formigas em C++ e Python"
@@ -379,6 +377,8 @@
               authors: "Douglas Luiz (UFSC), Odorico Mendizabal (UFSC)"
             - title: "Escolha do Ladrilhamento para um Simulador de Ondas Acústicas em GPUs por meio de Aprendizado de Máquina"
               authors: "Tiago da Silva (UFSCar), Edson Gomi (USP), Hermes Senger (UFSCar)"
+            - title: "A job shaping strategy to accomodate workload traces under varying resource management policie"
+              authors: "João Pedro M.  N. dos Santos (LNCC), Antonio Tadeu Gomes (LNCC)"
     - start: "9:45"
       end: "10:15"
       hide_details: "yes"
