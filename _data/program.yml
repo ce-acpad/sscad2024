@@ -679,7 +679,7 @@
           description: "Arquitetura e Aprendizado de Máquina"
           style: "auditorio2"
           room: "Auditório 2 (BCo)"
-          # chair: "Matheus Alcântara Souza (PUC Minas)"
+          chair: "Matheus Alcântara Souza (PUC Minas)"
           papers:
             - title: "Estudo de Redes Multiestágios em presença de Multicast"
               authors: "Caio Morais (UFV), Ricardo Ferreira (UFV), José Augusto Nacif (UFV)"
