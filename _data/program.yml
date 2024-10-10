@@ -583,7 +583,7 @@
           title: "WIC (S3)"
           description: "Energia, Sustentabilidade e Sistemas Distribuídos"
           room: "Auditório 2 (BCo)"
-          # chair: "A ser definido"
+          chair: "João Fabrício Filho (UTFPR)"
           papers:
             - title: "Evolução histórica do desempenho energético de tarefas cotidianas em uma distribuição Linux"
               authors: "Artur Cupelli (USP), Fabio Nakano (USP), Flávio Coutinho (USP), Daniel Cordeiro (USP)"
