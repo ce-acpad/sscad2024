@@ -184,7 +184,7 @@
           title: "WIC (S1)"
           description: "Arquitetura de Computadores"
           room: "Auditório 2 (BCo)"
-          # chair: "Henrique Cota de Freitas (PUC Minas)"
+          chair: "Henrique Cota de Freitas (PUC Minas)"
           papers:
             - title: "ProcessorCI: Integração Contínua para processadores RISC-V em FPGAs"
               authors: "Julio Avelar (UNICAMP), Victor Lago (UNICAMP), Ângelo Malaguti (UNICAMP), Rodolfo Azevedo (UNICAMP)"
