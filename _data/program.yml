@@ -367,7 +367,7 @@
           title: "SSCAD (S4)"
           description: "Algoritmos Paralelos e Distribuídos"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          # chair: "A ser definido"
+          chair: "Prof. Dr. Ítalo Augusto Souza de Assis (UFERSA)"
           papers:
             - title: "Efficient Agent-Based Simulations Using the Sender Asynchronous Progamming Model"
               authors: "Pablo Alessandro Santos Hugen (UNIOESTE), Guilherme Galante (UNIOESTE)"
@@ -719,7 +719,7 @@
           title: "SSCAD (S7)"
           description: "Linguagens, Compiladores e Ferramentas"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          # chair: "A ser definido"
+          chair: "Prof. Dr. Gerson Geraldo H. Cavalheiro (UFPel)"
           papers:
             - title: "Um estudo sobre bugs de concorrência em aplicações Go open-source"
               authors: "Alonso Fritz (UNIOESTE), Guilherme Galante (UNIOESTE), Marcio Oyamada (UNIOESTE)"
