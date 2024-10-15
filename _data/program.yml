@@ -450,7 +450,7 @@
           title: "SSCAD (S5)"
           description: "Computação Sustentável"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          # chair: "A ser definido"
+          chair: "Prof. Dr. Cesar Augusto Fonticielha de Rose"
           papers:
             - title: "Performance and Energy Prediction of OpenMP and CUDA Applications using Machine Learning and Pre-execution Features"
               authors: "Fellipe Queiroz (UFPA), Luan Siqueira (UFPA), Erick Damasceno (UFPA), Thiago Rodrigues (UFPA), Marcos Amaris (UFPA)"
