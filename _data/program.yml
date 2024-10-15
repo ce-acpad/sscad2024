@@ -244,10 +244,12 @@
       end: "17:15"
       activities:
         - id: "pi1"
-          type: "keynote"
           url: "#pi1"
+          type: "keynote"
           room: "Bento Prado"
-          title: "Palestra Industrial 1 - Dell"
+          title: "HPC & AI supercomputing"
+          authors: "Mônica A. Costa (Hewlett Packard Enterprise)"
+          abstract: "Vamos explorar a liderança mundial da HPE em Computação de Alto Desempenho e Inteligência Artificial reforçando o posicionamento da HPE com no. 1 no Top500 (https://www.top500.org/) e apresentar demais casos de sucesso para os Supercomputadores HPE CRAY EX como referência mundial em performance, sustentabilidade e escalabilidade. Vamos apresentar o Portifólio de HPC/AI CRAY XD, com suas diversas arquiteturas e infraestrutura de rede de alta performance, CPUs e Aceleradores, bem como as opções de refrigeração Air Cooled, ARCS e DLC, conforme a disponibilidade de cada ambiente."
     - start: "17:15"
       end: "18:15"
       activities:
@@ -518,12 +520,10 @@
       end: "17:45"
       activities:
         - id: "pi2"
-          type: "keynote"
           url: "#pi2"
+          type: "keynote"
           room: "Bento Prado"
-          title: "HPC & AI supercomputing"
-          authors: "Mônica A. Costa (Hewlett Packard Enterprise)"
-          abstract: "Vamos explorar a liderança mundial da HPE em Computação de Alto Desempenho e Inteligência Artificial reforçando o posicionamento da HPE com no. 1 no Top500 (https://www.top500.org/) e apresentar demais casos de sucesso para os Supercomputadores HPE CRAY EX como referência mundial em performance, sustentabilidade e escalabilidade. Vamos apresentar o Portifólio de HPC/AI CRAY XD, com suas diversas arquiteturas e infraestrutura de rede de alta performance, CPUs e Aceleradores, bem como as opções de refrigeração Air Cooled, ARCS e DLC, conforme a disponibilidade de cada ambiente."
+          title: "Palestra Industrial - Dell"
     - start: "17:45"
       end: "19:30"
       activities:
