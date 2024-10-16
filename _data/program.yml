@@ -630,7 +630,7 @@
           title: "SSCAD (S6)"
           description: "Computação em Nuvem"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          # chair: "A ser definido"
+          chair: "Prof. Dr. Wellington Santos Martins (UFG)"
           papers:
             - title: "Towards multicluster computations with Julia"
               authors: "Francisco H. de Carvalho Junior (UFC), Tiago Carneiro (IMEC)"
