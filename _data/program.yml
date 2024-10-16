@@ -405,7 +405,7 @@
           title: "WIC (S2)"
           description: "Computação de Alto Desempenho"
           room: "Auditório 2 (BCo)"
-          # chair: "A ser definido"
+          chair: "Márcio Castro (UFSC)"
           papers:
             - title: "Avaliação do Desempenho de Aplicações CUDA em um Ambiente com a Tecnologia Multi-Instance GPU"
               authors: "Pablo Silva de Faria (UFJF), Marcelo Lobosco (UFJF)"
