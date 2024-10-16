@@ -59,7 +59,7 @@
           title: "SSCAD (S1)"
           description: "Aprendizado de Máquina"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          # # chair: "A ser definido"
+          chair: "Philippe Olivier Alexandre Navaux"
           papers:
             - title: "Avaliação das Técnicas Gulosa e Probabilística no Desempenho do Algoritmo de Otimização de Colônia de Formigas"
               authors: "Ana Carolina Gonçalves (PUC Minas), Maria Eduarda Oliveira de Brito (PUC Minas), Henrique Cota de Freitas (PUC Minas), Cristiane Nobre (PUC Minas)"
@@ -220,7 +220,7 @@
           title: "SSCAD (S3)"
           description: "Avaliação e Medição de Desempenho"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          # chair: "A ser definido"
+          chair: "Denise Stringhini"
           papers:
             - title: "Análise de Escalabilidade em um Código de Inversão de Forma de Onda Completa"
               authors: "Felipe H. Santos-da-Silva (UFERSA), João B. Fernandes (UFRN), Samuel Xavier-de-Souza (UFRN), Italo Assis (UFERSA)"
@@ -369,7 +369,7 @@
           title: "SSCAD (S4)"
           description: "Algoritmos Paralelos e Distribuídos"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          chair: "Prof. Dr. Ítalo Augusto Souza de Assis (UFERSA)"
+          chair: "Ítalo Augusto Souza de Assis (UFERSA)"
           papers:
             - title: "Efficient Agent-Based Simulations Using the Sender Asynchronous Progamming Model"
               authors: "Pablo Alessandro Santos Hugen (UNIOESTE), Guilherme Galante (UNIOESTE)"
@@ -450,7 +450,7 @@
           title: "SSCAD (S5)"
           description: "Computação Sustentável"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          chair: "Prof. Dr. Cesar Augusto Fonticielha de Rose"
+          chair: "Cesar Augusto Fonticielha de Rose"
           papers:
             - title: "Performance and Energy Prediction of OpenMP and CUDA Applications using Machine Learning and Pre-execution Features"
               authors: "Fellipe Queiroz (UFPA), Luan Siqueira (UFPA), Erick Damasceno (UFPA), Thiago Rodrigues (UFPA), Marcos Amaris (UFPA)"
@@ -630,7 +630,7 @@
           title: "SSCAD (S6)"
           description: "Computação em Nuvem"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          chair: "Prof. Dr. Wellington Santos Martins (UFG)"
+          chair: "Wellington Santos Martins (UFG)"
           papers:
             - title: "Towards multicluster computations with Julia"
               authors: "Francisco H. de Carvalho Junior (UFC), Tiago Carneiro (IMEC)"
@@ -729,7 +729,7 @@
           title: "SSCAD (S7)"
           description: "Linguagens, Compiladores e Ferramentas"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          chair: "Prof. Dr. Gerson Geraldo H. Cavalheiro (UFPel)"
+          chair: "Gerson Geraldo H. Cavalheiro (UFPel)"
           papers:
             - title: "Um estudo sobre bugs de concorrência em aplicações Go open-source"
               authors: "Alonso Fritz (UNIOESTE), Guilherme Galante (UNIOESTE), Marcio Oyamada (UNIOESTE)"
