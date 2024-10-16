@@ -59,7 +59,7 @@
           title: "SSCAD (S1)"
           description: "Aprendizado de Máquina"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          chair: "Philippe Olivier Alexandre Navaux"
+          chair: "Philippe Olivier Alexandre Navaux (UFRGS)"
           papers:
             - title: "Avaliação das Técnicas Gulosa e Probabilística no Desempenho do Algoritmo de Otimização de Colônia de Formigas"
               authors: "Ana Carolina Gonçalves (PUC Minas), Maria Eduarda Oliveira de Brito (PUC Minas), Henrique Cota de Freitas (PUC Minas), Cristiane Nobre (PUC Minas)"
@@ -220,7 +220,7 @@
           title: "SSCAD (S3)"
           description: "Avaliação e Medição de Desempenho"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          chair: "Denise Stringhini"
+          chair: "Denise Stringhini (UNIFESP)"
           papers:
             - title: "Análise de Escalabilidade em um Código de Inversão de Forma de Onda Completa"
               authors: "Felipe H. Santos-da-Silva (UFERSA), João B. Fernandes (UFRN), Samuel Xavier-de-Souza (UFRN), Italo Assis (UFERSA)"
