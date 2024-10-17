@@ -128,7 +128,7 @@
           title: "SSCAD (S2)"
           description: "Arquitetura e Simulação"
           room: "Bento Prado - Apresentações: 15 m e Perguntas: 5 m (ao todo 20 m por trabalho)"
-          # chair: "A ser definido"
+          chair: "Ricardo Menotti (UFSCar)"
           papers:
             - title: "HybriD-GM: Um Modelo Paralelo para Computação Quântica direcionado às Arquiteturas Híbridas"
               authors: "Anderson Avila (UFPel), Rafael Bastos (UFPel), Bruno Moura (UNIPAMPA), Helida Santos (FURG), Giancarlo Lucca (UCPEL), Anderson Cruz (UFRN), Samuel Xavier-de-Souza (UFRN), Adenauer Yamin (UFPel), Renata Reiser (UFPel)"
