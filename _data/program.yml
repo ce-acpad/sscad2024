@@ -523,7 +523,9 @@
           url: "#pi2"
           type: "keynote"
           room: "Bento Prado"
-          title: "Palestra Industrial - Dell"
+          title: "Dell & NVIDIA soluções para HPC/IA"
+          authors: "Evaldo Costa e Pedro Mario"
+          short_bio: "<br><b>Evaldo Costa</b> Engenheiro sênior responsável pelo desenvolvimento de projetos com soluções Dell & NVIDIA. Possui mais de vinte anos de experiência na área de Tecnologia da Informação em planejamento e implementação de ambientes de missão crítica, arquitetura de soluções para Data Center, HPC/IA. Graduado em engenharia elétrica, mestre e doutor em informática pela UFRJ.<br><b>Pedro Mário Cruz e Silva</b> fez sua graduação (1995) e mestrado (1998) na Universidade Federal de Pernambuco (UFPE), fez seu doutorado em 2004 na PUC-Rio. Criou o Grupo de Geofísica Computacional na PUC-Rio onde trabalhou por 15 anos como Gerente, durante este período foi responsável por vários projetos de Desenvolvimento de Software e P&D para Geofísica com forte foco em inovação. Concluiu o MBA em 2015 na Fundação Getúlio Vargas (FGV/RJ). Atualmente é o Arquiteto de Soluções para Ensino Superior e Pesquisa na Região da América Latina."
     - start: "17:45"
       end: "19:30"
       activities:
