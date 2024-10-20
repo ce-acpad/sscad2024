@@ -192,7 +192,7 @@
               authors: "Guilherme Fagundes (PUC Minas), Matheus Souza (PUC Minas)"
             - title: "Exploração do Espaço de Projetos de Sistemas GPGPUs ciente de Dark-Silicon"
               authors: "Laura Ludgero (UFMS), Gislayne Damasceno (UFMS), Samuel Rodrigues (UFMS), Ricardo Santos (UFMS), Liana Duenha (UFMS)"
-            - title: "Exploração de Projetos de GPUs e VMs com MultiExplorer"
+            - title: "Extensão da Ferramenta MultiExplorer para Exploração de Projetos de GPUs e Máquinas Virtuais"
               authors: "Samuel Rodrigues (UFMS), Ricardo Santos (UFMS)"
         - id: "ph"
           type: "tutorial"
