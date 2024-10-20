@@ -321,7 +321,7 @@
           style: "auditorio3"
           title: "WEAC (S1)"
           room: "Auditório 3 (BCo)"
-          # chair: "A ser definido"
+          chair: Rodolfo Azevedo
           papers:
             - title: "WIMS : A Modern Web-Based MIPS Simulator for Improved Learning in Computer Architecture and Operating Systems"
               authors: "Reinaldo Assis (Universidade Federal de Alagoas), Bruno Costa e Silva Nogueira (Universidade Federal de Alagoas)"
@@ -334,14 +334,7 @@
 
             - title: Livros da Comunidade CE-ACPAD
             
-            #- title: "WIMS : A Modern Web-Based MIPS Simulator for Improved Learning in Computer Architecture and Operating Systems"
-            #  authors: "Reinaldo Assis (Universidade Federal de Alagoas), Bruno Costa e Silva Nogueira (Universidade Federal de Alagoas)"
-            #- title: "Processador MIPS Implementado em Simulador Visual para uso na Educação"
-            #  authors: "Christofer Daniel Rodrigues Santos (Universidade Tecnológica Federal do Paraná), Rogério Gonçalves (Universidade Tecnológica Federal do Paraná), João Fabrício Filho (Universidade Tecnológica Federal do Paraná)"
-            #- title: "Desenvolvendo Ferramentas para Ensino de RiscV com Python, Verilog, Matplotlib, SVG e ChatGPT"
-            #  authors: "Guilherme Figueiredo (Universidade Federal de Viçosa), Erick Souza (Universidade Federal de Viçosa), Julio Rodrigues (Universidade Federal de Viçosa), José Augusto Nacif (Universidade Federal de Viçosa), Ricardo Ferreira (Universidade Federal de Viçosa)"
-            #- title: "Um Relato de Experiência do Uso de Metodologias Ativas na Construção do Pensamento Computacional Paralelo"
-            #  authors: "Josivaldo de Araujo (Universidade Federal do Pará), Helder Dias (Universidade Federal do Pará)"
+            
         - id: "mc5"
           type: "tutorial"
           url: "#mc5"
@@ -423,7 +416,7 @@
           title: "WEAC (S2)"
           style: "auditorio3"
           room: "Auditório 3 (BCo)"
-          # chair: "A ser definido"
+          chair: Guilherme Galante
           papers:
             - title: "Um Relato de Experiência do Uso de Metodologias Ativas na Construção do Pensamento Computacional Paralelo"
               authors: "Josivaldo de Araujo (Universidade Federal do Pará),Helder Dias (Universidade Federal do Pará)"
@@ -433,6 +426,9 @@
 
             - title: "Desenvolvendo Ferramentas para Ensino de RiscV com Python, Verilog, Matplotlib, SVG e ChatGPT"
               authors: "Guilherme Figueiredo (Universidade Federal de Viçosa),Erick Souza (Universidade Federal de Viçosa),Julio Rodrigues (Universidade Federal de Viçosa), José Augusto Nacif (Universidade Federal de Viçosa), Ricardo Ferreira (Universidade Federal de Viçosa)"
+
+            - title: "Aprimorando a Aprendizagem de Arquitetura de Computadores com um Currículo em Espiral"
+              authors: "Leonardo Pinho (Universidade Federal do Pampa), Julio Saraçol Domingues Júnior (Universidade Federal do Pampa)"
             
             - title: Livros da Comunidade CE-ACPAD  
         - id: "gap"
@@ -702,21 +698,7 @@
               authors: "Ricardo Silva (UFJF), Jose Camata (UFJF)"
             - title: "Redução de Dimensionalidade para Árvores Aleatórias"
               authors: "Walter Bueno de Brito Neto (UFV), Olavo Silva (UFV), José Augusto Nacif (UFV), Ricardo Ferreira (UFV)"
-        - id: "weac3"
-          type: "session"
-          url: "#weac3"
-          style: "auditorio3"
-          title: "WEAC (S3)"
-          room: "Auditório 3 (BCo)"
-          # chair: "A ser definido"
-          papers:
-            - title: "Aprimorando a Aprendizagem de Arquitetura de Computadores com um Currículo em Espiral"
-              authors: "Leonardo Pinho (Universidade Federal do Pampa), Julio Saraçol Domingues Júnior (Universidade Federal do Pampa)"
-
-            - title: "Resenha do Livro “Arquitetura e Organização de Computadores: uma Introdução"
-              authors: "Gabriel P. Silva (Universidade Federal do Rio de Janeiro), José Antonio Borges (Universidade Federal do Rio de Janeiro)"
-
-            - title: Livros da Comunidade CE-ACPAD
+                    
         - id: "gap"
           type: "gap"
           style: "gap"
