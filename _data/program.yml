@@ -456,7 +456,7 @@
               authors: "Erick Damasceno (UFPA), Fellipe Queiroz (UFPA), Luan Siqueira (UFPA), Thiago Rodrigues (UFPA), Marcos Amaris (UFPA)"
             - title: "Análise de Desempenho e Consumo Energético de Aplicações Recursivas em Ambientes OpenMP, CUDA e CUDA-DP"
               authors: "Angelo Nogueira (UNIPAMPA), Arthur Lorenzon (UFRGS), Claudio Schepke (UNIPAMPA), Diego Kreutz (UNIPAMPA)"
-           - title: "Explorando Modelos GPT na Geração de Código Paralelo para Aplicações de Computação Stencil"
+            - title: "Explorando Modelos GPT na Geração de Código Paralelo para Aplicações de Computação Stencil"
               authors: "João Vitor Dias (UFRGS), Antonio Carlos Schneider Beck (UFRGS), Arthur Lorenzon (UFRGS)"
     - start: "12:00"
       end: "13:30"
