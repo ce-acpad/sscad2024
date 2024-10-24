@@ -667,6 +667,18 @@
           type: "blank"
           style: "blank"
           title: "Almoço"
+    - start: "13:30"
+      end: "14:30"
+      activities:
+        - id: "k5"
+          type: "keynote"
+          url: "#k5"
+          room: "Bento Prado"
+          title: "Is There Room for HPC in Developing Countries?"
+          authors: "Jairo Panetta (ITA/IEC)"
+          image: "Jairo.jpg"
+          short_bio: "Jairo Panetta teaches and develops HPC scientific software at Brazil. He has worked on oil and gas, weather forecasting, and financial industries since 1986, both creating and educating HPC groups as well as developing HPC software. He teaches Parallel Processing graduate classes at ITA as a volunteer, after retirement. He holds a PhD in Computer Science from Purdue University."
+          abstract: "This talk summarizes policies, actors and institutions that contributed for the development of HPC in Brazil during the last 40 years. It visits activities at academia, professional societies, industries, federal and state governments related to such purpose. It emphasizes actions that could be useful for other development countries that are willing to invest in HPC"          
     - start: "14:30"
       end: "16:15"	
       activities:
