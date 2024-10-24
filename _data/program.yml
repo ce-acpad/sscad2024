@@ -387,8 +387,7 @@
       activities:
         - id: "rcr"
           url: "#rcr"
-          style: "auditorio1"
-          room: "Auditório 1 (BCo)"
+          room: "Bento Prado"
           title: "Reunião"
           subtitle: "CRAD-SP"
         - id: "wic2"
